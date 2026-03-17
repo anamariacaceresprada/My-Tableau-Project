@@ -58,3 +58,7 @@ Dashboards were designed to:
 This work was completed during a **Data Technician Bootcamp**, where Tableau was used to develop practical skills in **data visualisation, dashboard design, and communicating insights through data**.
 
 ---
+
+[Link to Tableau Dashboard](https://public.tableau.com/views/GBEmploymentDashboard_17737500164030/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+<img width="341" height="253" alt="image" src="https://github.com/user-attachments/assets/b9d18530-d4ec-48c3-89ad-8ad54636d4ce" />
